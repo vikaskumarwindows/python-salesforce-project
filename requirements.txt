@@ -1,0 +1,16 @@
+# Core Salesforce API Client
+simple-salesforce>=1.12.6
+
+# Environment Variable Management
+python-dotenv>=1.0.1
+
+# HTTP Client & Security
+requests>=2.32.0
+cryptography>=42.0.0
+
+# Data Manipulation & Export (SOQL queries to DataFrame/CSV/Excel)
+pandas>=2.2.0
+
+# Optional Development & Quality Tools
+# pytest>=8.0.0
+# ruff>=0.4.0
